@@ -28,16 +28,16 @@ function preload() {
 // img9 = loadImage('caretaker.jpg');
 // img10 = loadImage('fortnitemares.jpg');
 // you can link to an image on your github account
- img = loadImage('https://josephinecastro.github.io/jonesy.png');
- img2 = loadImage('https://josephinecastro.github.io/hordezombie.png');
- img3 = loadImage('https://josephinecastro.github.io/bosscubic.jpg');
- img4 = loadImage('https://josephinecastro.github.io/bosscaretaker.png');
- img5 = loadImage('https://josephinecastro.github.io/rushhorde.jpg');
- img6 = loadImage('https://josephinecastro.github.io/zombies.jpg');
- img7 = loadImage('https://josephinecastro.github.io/horderush.jpg');
- img8 = loadImage('https://josephinecastro.github.io/cubeassassin.jpg');
- img9 = loadImage('https://josephinecastro.github.io/caretaker.jpg');
- img10 = loadImage('https://josephinecastro.github.io/fortnitemares.jpg');
+ img = loadImage('https://josephinecastro.github.io/horderush/jonesy.png');
+ img2 = loadImage('https://josephinecastro.github.io/horderush/hordezombie.png');
+ img3 = loadImage('https://josephinecastro.github.io/horderush/bosscubic.jpg');
+ img4 = loadImage('https://josephinecastro.github.io/horderush/bosscaretaker.png');
+ img5 = loadImage('https://josephinecastro.github.io/horderush/rushhorde.jpg');
+ img6 = loadImage('https://josephinecastro.github.io/horderush/zombies.jpg');
+ img7 = loadImage('https://josephinecastro.github.io/horderush/horderush.jpg');
+ img8 = loadImage('https://josephinecastro.github.io/horderush/cubeassassin.jpg');
+ img9 = loadImage('https://josephinecastro.github.io/horderush/caretaker.jpg');
+ img10 = loadImage('https://josephinecastro.github.io/horderush/fortnitemares.jpg');
 }
 
 function setup() {
